@@ -40,7 +40,7 @@
 
 11
 
- # <p align="center" style="color:#cb3349" > ``git clone https://github.com/Mohammedsafwat0/mohamedsafwat ;cd DRAGON;chmod +x install;./install``
+ # <p align="center" style="color:#cb3349" > ``https://github.com/Mohammedsafwat0/El-Amer ;cd DRAGON;chmod +x install;./install``
 
 12
 
